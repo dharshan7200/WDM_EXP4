@@ -44,7 +44,7 @@ plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
 ### Output:
-![alt text](output/plot.png)
+<img width="1053" height="753" alt="image" src="https://github.com/user-attachments/assets/2d9c2e42-ecc6-47a8-a4fe-14d2558d40b7" />
 
 ### Result:
 Thus the cluster and visitor segmentation for navigation patterns was implemented successfully in python.
